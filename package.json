@@ -18,6 +18,8 @@
   "homepage": "https://github.com/xColdyx/Day-24#readme",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
   }
 }
